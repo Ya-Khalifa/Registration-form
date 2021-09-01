@@ -1,0 +1,95 @@
+/****************** Image hotel  *******************************************/
+.imageHotel
+{
+    background-color: lavender;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1500px;
+    margin-left: -10px;
+}
+.imageHotel h1
+{
+    margin-left: 550px;
+    font-size: 30px;
+}
+.imageHotel h2
+{
+    margin-left: 550px;
+    font-size: 15px;
+    color: gray;
+}
+.imageHotel div
+{
+    display: inline-block;
+    width: 22%;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:80px;
+}
+.imageHotel div img
+{
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+}
+.imageHotel div div
+{
+    text-align: center; 
+    font-size: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    width: 347px;
+    margin-top: -3px;
+    margin-left: 17px;
+    
+}
+
+/****************** Image plage  *******************************************/
+.imagePlage
+{
+    background-color: lavender;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1500px;
+    margin-left: -10px;
+}
+.imagePlage h1
+{
+    margin-left: 550px;
+    font-size: 30px;
+}
+.imagePlage h2
+{
+    margin-left: 550px;
+    font-size: 15px;
+    color: gray;
+}
+.imagePlage div
+{
+    display: inline-block;
+    width: 22%;
+    margin-top:30px;
+    margin-bottom:30px;
+    margin-left:80px;
+}
+.imagePlage div img
+{
+    width: 350px;
+    height: 350px;
+    margin-left: 20px;
+}
+.imagePlage div div
+{
+    text-align: center; 
+    font-size: 15px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    width: 347px;
+    margin-top: -3px;
+    margin-left: 17px;
+    
+}
